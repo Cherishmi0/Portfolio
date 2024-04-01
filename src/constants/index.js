@@ -135,6 +135,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/Cherishmi0/Portfolio/",
+    demo_link: "https://cherie-portfolio.netlify.app/" ,
   },
   {
     name: "React admin-dashboard",
@@ -153,6 +154,7 @@ const projects = [
     ],
     image: dashboard,
     source_code_link: "https://github.com/Cherishmi0/Dashboard/",
+    demo_link: "https://cheridashboard.netlify.app/" ,
   },
   {
     name: "Fitness application",
@@ -171,6 +173,7 @@ const projects = [
     ],
     image: fitness,
     source_code_link: "https://github.com/Cherishmi0/FitnessApp/",
+    demo_link: "https://cheriefitness.netlify.app/" ,
   },
   {
     name: "Netflix clone",
@@ -192,6 +195,7 @@ const projects = [
     ],
     image: netflix,
     source_code_link: "https://github.com/Cherishmi0/NetflixClone/",
+    demo_link: "https://cherienetflixclone.netlify.app/" ,
   },
   {
     name: "Responsive website",
@@ -210,6 +214,7 @@ const projects = [
     ],
     image: responsive,
     source_code_link: "https://github.com/Cherishmi0/responsiveWeb/",
+    demo_link: "https://cheriewebsite.netlify.app/" ,
   },
 ];
 

@@ -2,6 +2,7 @@ import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import github from "./github.png";
+import live from "./live.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -37,6 +38,7 @@ export {
   backend,
   creator,
   github,
+  live,
   menu,
   close,
   css,
