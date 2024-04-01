@@ -24,7 +24,7 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Experrience",
+    title: "Experience",
   },
   {
     id: "project",
@@ -109,10 +109,10 @@ const experiences = [
     date: "October 2021 - January 2023",
     points: [
     
-      "Developed mobile applica4ons utlising Kotlin.",
+      "Developed mobile applications utlising Kotlin.",
       "Designed and Developed High performance Database using MySQL.",
       "Working closely with the team members and assisting them.",
-      "Implement new features, tes4ng, debugging, diagnosing, and correcting errors in applications.",
+      "Implement new features, testing, debugging, diagnosing, and correcting errors in applications.",
     ],
   },
   
