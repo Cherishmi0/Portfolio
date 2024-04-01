@@ -134,7 +134,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Cherishmi0/Portfolio/",
   },
   {
     name: "React admin-dashboard",
@@ -152,7 +152,7 @@ const projects = [
       },
     ],
     image: dashboard,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Cherishmi0/Dashboard/",
   },
   {
     name: "Fitness application",
@@ -170,7 +170,7 @@ const projects = [
       },
     ],
     image: fitness,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Cherishmi0/FitnessApp/",
   },
   {
     name: "Netflix clone",
@@ -191,7 +191,7 @@ const projects = [
       },
     ],
     image: netflix,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Cherishmi0/NetflixClone/",
   },
   {
     name: "Responsive website",
@@ -209,7 +209,7 @@ const projects = [
       },
     ],
     image: responsive,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Cherishmi0/responsiveWeb/",
   },
 ];
 
