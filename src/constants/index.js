@@ -103,10 +103,10 @@ const experiences = [
   },
   
   {
-    title: "Junior android Developer",
+    title: "Android Developer Intern",
     company_name: "GrandM, Vietnam",
     iconBg: "#383E56",
-    date: "October 2021 - January 2023",
+    date: "October 2021 - March 2022",
     points: [
     
       "Developed mobile applications utlising Kotlin.",
